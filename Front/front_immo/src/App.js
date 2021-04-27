@@ -1,7 +1,6 @@
 import './App.css';
 import Home from './components/Pages/Home'
 import axios from 'axios'
-import {BrowserRouter as Router, Switch, Route}} from 'react-router-dom';
 import React, { Component } from 'react'
 
 
